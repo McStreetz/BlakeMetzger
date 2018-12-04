@@ -1,2 +1,0 @@
-# BlakeMetzger
-blakemetzger.com
